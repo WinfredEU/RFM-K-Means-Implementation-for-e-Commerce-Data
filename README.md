@@ -40,6 +40,7 @@ In addition we can classify based on customer demographics. And combining RFM re
     <br>
     <a href='https://www.ibm.com/support/knowledgecenter/en/SSLVMB_24.0.0/spss/rfm/idh_rfm_output_transactions.html'>Skewed Histogram on RFM</a>
     <a href='https://www.putler.com/rfm-analysis/'>Customer Segments with RFM Model</a>
+    <br>
     <a href='https://towardsdatascience.com/who-is-your-golden-goose-cohort-analysis-50c9de5dbd31'>TDS - Who Is Your Golden Goose?: Cohort Analysis</a>
     <br>
     <a href='https://towardsdatascience.com/clustering-algorithms-for-customer-segmentation-af637c6830ac'>TDS - Clustering algorithms for customer segmentation</a>
