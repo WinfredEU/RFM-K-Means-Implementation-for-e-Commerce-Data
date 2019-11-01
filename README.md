@@ -63,3 +63,11 @@ In addition we can classify based on customer demographics. And combining RFM re
     <br>
     <a href='https://medium.com/@henryfeng/rfm-analysis-customer-churn-analysis-for-hotel-mall-enterprise-in-china-d2c6dc794d27'>Medium - RFM Analysis & Customer Churn Analysis for Hotel/Mall Enterprise in China</a>
 </div>
+
+## Authors
+
+* **Fachrul Kurniansyah** - *RFM&K-MeansImplementation* - [fchrulk](https://github.com/fchrulk)
+
+You can visit my LinkedIn [here](https://www.linkedin.com/in/fchrulk).
+
+Email : fachrul.kurniansyah@gmail.com
