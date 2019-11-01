@@ -27,6 +27,7 @@ For the hotel business, many variables can be tried to segment customers, I thin
 - Monetary
 - Duration (length of stay on one visit)
 - Engagements (customer reviews)
+
 In addition we can classify based on customer demographics. And combining RFM results with demographic grouping results.
 
 
