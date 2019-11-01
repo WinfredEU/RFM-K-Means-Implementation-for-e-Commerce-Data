@@ -39,6 +39,7 @@ In addition we can classify based on customer demographics. And combining RFM re
     <a href='https://www.statisticshowto.datasciencecentral.com/probability-and-statistics/skewed-distribution/#targetText=In%20a%20normal%20distribution%2C%20the,the%20right%20of%20the%20median.'>Skewed Distribution</a>
     <br>
     <a href='https://www.ibm.com/support/knowledgecenter/en/SSLVMB_24.0.0/spss/rfm/idh_rfm_output_transactions.html'>Skewed Histogram on RFM</a>
+    <br>
     <a href='https://www.putler.com/rfm-analysis/'>Customer Segments with RFM Model</a>
     <br>
     <a href='https://towardsdatascience.com/who-is-your-golden-goose-cohort-analysis-50c9de5dbd31'>TDS - Who Is Your Golden Goose?: Cohort Analysis</a>
