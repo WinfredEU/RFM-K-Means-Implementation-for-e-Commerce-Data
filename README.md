@@ -16,3 +16,27 @@ RFM analysis looks at all of the bookings and transactions in your customer data
 #### Case Study
 This task is carried out with the aim to apply RFM analysis to sample data relating to transaction data from an e-Commerce.<br>
 I will use Quintiles Method which is RFM scoring will be from 1 to 5 to Recency, Frequency and Monetary. 5 is the best/highest value, and 1 is the lowest/worst value. A final RFM score is calculated simply by combining individual RFM score numbers.<br>
+
+
+<div>
+    Good to read:<br>
+    <a href='https://towardsdatascience.com/who-is-your-golden-goose-cohort-analysis-50c9de5dbd31'>TDS - Who Is Your Golden Goose?: Cohort Analysis</a>
+    <br>
+    <a href='https://towardsdatascience.com/clustering-algorithms-for-customer-segmentation-af637c6830ac'>TDS - Clustering algorithms for customer segmentation</a>
+    <br>
+    <a href='https://en.wikipedia.org/wiki/RFM_(customer_value)'>Wikipedia - RFM (customer value)</a>
+    <br>
+    <a href='https://www.putler.com/rfm-analysis/'>Putler - RFM Analysis For Successful Customer Segmentation</a>
+    <br>
+    <a href='https://www.optimove.com/resources/learning-center/rfm-segmentation'>Optimove - RFM Segmentation</a>
+    <br>
+    <a href='https://www.kaggle.com/sarahm/customer-segmentation-using-rfm-analysis'>Kaggle - Customer Segmentation using RFM Analysis</a>
+    <br>
+    <a href='https://www.kaggle.com/fabiendaniel/customer-segmentation'>Kaggle - Customer Segmentation</a>
+    <br>
+    <a href='https://dialedseo.com/customer-retention-in-hotel-industry-rfm-model/'>Otium Boutique - IMPROVING CUSTOMER RETENTION IN THE HOTEL INDUSTRY WITH THE RFM MODEL</a>
+    <br>
+    <a href='https://www.data-mania.com/blog/customer-profiling-and-segmentation-in-python/'>DataMania - CUSTOMER PROFILING AND SEGMENTATION IN PYTHON | A CONCEPTUAL OVERVIEW AND DEMONSTRATION</a>
+    <br>
+    <a href='https://medium.com/@henryfeng/rfm-analysis-customer-churn-analysis-for-hotel-mall-enterprise-in-china-d2c6dc794d27'>Medium - RFM Analysis & Customer Churn Analysis for Hotel/Mall Enterprise in China</a>
+</div>
