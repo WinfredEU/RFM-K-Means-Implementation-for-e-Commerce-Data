@@ -68,6 +68,6 @@ In addition we can classify based on customer demographics. And combining RFM re
 
 * **Fachrul Kurniansyah** - *RFM&K-MeansImplementation* - [fchrulk](https://github.com/fchrulk)
 
-You can visit my LinkedIn [here](https://www.linkedin.com/in/fchrulk).
-
-Email : fachrul.kurniansyah@gmail.com
+#### Feel Free to Discuss :relieved:
+:coffee: LinkedIn&ensp;: [Fachrul Kurniansyah](https://www.linkedin.com/in/fchrulk)<br>
+:e-mail: Email&ensp;&ensp;&ensp;&ensp;: fachrul.kurniansyah@gmail.com
