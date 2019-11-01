@@ -1,4 +1,5 @@
 # RFM & K-Means Implementation for e-Commerce Data
+## Preface
 RFM analysis is a technique used to identify existing customers who are most likely to respond to a new offer. This technique is commonly used in direct marketing. RFM analysis is based on the following simple theory:
 - The most important factor in identifying customers who are likely to respond to a new offer is recency. Customers who purchased more recently are more likely to purchase again than are customers who purchased further in the past.
 - The second most important factor is frequency. Customers who have made more purchases in the past are more likely to respond than are those who have made fewer purchases.
@@ -18,8 +19,27 @@ This task is carried out with the aim to apply RFM analysis to sample data relat
 I will use Quintiles Method which is RFM scoring will be from 1 to 5 to Recency, Frequency and Monetary. 5 is the best/highest value, and 1 is the lowest/worst value. A final RFM score is calculated simply by combining individual RFM score numbers.<br>
 
 
+## Conclusion
+RFM analysis is a simple approach to segmenting customers. This can be done with data that supports the parameters needed to create an RFM table. We can also change parameters if our business has other parameters.
+For the hotel business, many variables can be tried to segment customers, I think we can try using several parameters such as:
+- Recency
+- Frequency
+- Monetary
+- Duration (length of stay on one visit)
+- Engagements (customer reviews)
+In addition we can classify based on customer demographics. And combining RFM results with demographic grouping results.
+
+
+## References        
 <div>
-    Good to read:<br>
+    <a href='https://www.data-to-viz.com/graph/density.html'>What is Density?</a>
+    <br>
+    <a href='https://chemicalstatistician.wordpress.com/2013/06/09/exploratory-data-analysis-kernel-density-estimation-in-r-on-ozone-pollution-data-in-new-york-and-ozonopolis/'>What is Kernel Density Estimation?</a>
+    <br>
+    <a href='https://www.statisticshowto.datasciencecentral.com/probability-and-statistics/skewed-distribution/#targetText=In%20a%20normal%20distribution%2C%20the,the%20right%20of%20the%20median.'>Skewed Distribution</a>
+    <br>
+    <a href='https://www.ibm.com/support/knowledgecenter/en/SSLVMB_24.0.0/spss/rfm/idh_rfm_output_transactions.html'>Skewed Histogram on RFM</a>
+    <a href='https://www.putler.com/rfm-analysis/'>Customer Segments with RFM Model</a>
     <a href='https://towardsdatascience.com/who-is-your-golden-goose-cohort-analysis-50c9de5dbd31'>TDS - Who Is Your Golden Goose?: Cohort Analysis</a>
     <br>
     <a href='https://towardsdatascience.com/clustering-algorithms-for-customer-segmentation-af637c6830ac'>TDS - Clustering algorithms for customer segmentation</a>
